@@ -13,7 +13,7 @@ testArr.push('новий елемент')
 delete testObj.birthdate
 
 // 5. Видаліть елемент з масиву доданий у завданні 4
-testArr.pop(0)
+testArr.pop()
 
 // 6. Додайте до обєкту метод який буде виводити ваше імя і прізвище.
 testObj.myName = function(){
